@@ -12,7 +12,7 @@ I care about automation that's actually maintainable, observability that catches
 **Automation:** Selenium · Playwright · TestNG · REST Assured · Postman · JMeter  
 **Observability:** Elasticsearch · real-time production monitoring  
 **CI/CD:** Jenkins · GitHub Actions  
-**Other:** Web3 / Blockchain · BDD (Cucumber) · Allure Reports · Page Object Model  
+**Other:** Web3 / Blockchain · Allure Reports · Page Object Model  
 
 ---
 
